@@ -5,9 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andiezz" alt="andiezz" /></a> </p>
 
-- 🔭 I’m currently working on [Financial_Management_System](https://github.com/Andiezz/Financial_Management_System.git)
+- 🔭 My Graduation Thesis: Indoor Air Quality Monitoring System
+    - [Backend](https://github.com/Andiezz/IoT-Platform-BE)
+    - [Frontend](https://github.com/Andiezz/IoT-Platform-FE)
+    - [Mobile](https://github.com/Andiezz/IoT-Platform-Mobile)
 
-- 🌱 I’m currently learning **NodeJS with NestJS, MongoDB,...**
+- 🌱 My skills:
+    - Expert in **TypeScript/JavaScript, NestJS, Python, PostgreSQL, MongoDB.**
+    - Proficient in **C, Java, Kafka, React, Redis, Docker, Flask, FastAPI, Celery, Go.**
+    - Experienced **PyTorch, scikit-learn, OpenCV, NumPy, Pandas, Matlab.**
+    - Miscellaneous **Git, Linux, Swagger, UML, MS Office, Agile, Scrum, WebSocket, MQTT, AWS, Redmine.**
+    - Concepts **Coding Principles, Cloud Computing, System Design, Networking, Operating System, Software Life Cycle, Testing.**
+    - AI Concepts **Machine Learning models, Feature Engineering, Neural Network, Classification, Regression, CNN**
+
 
 - 📫 How to reach me **vthanh.an57@gmail.com**
 
